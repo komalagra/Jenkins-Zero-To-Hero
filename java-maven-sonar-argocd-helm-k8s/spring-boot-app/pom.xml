@@ -24,13 +24,6 @@
         <java.version>11</java.version>
     </properties>
 
-     <properties>
-         <!-- Optional URL to server. Default value is http://localhost:9000 -->
-         <sonar.host.url>
-              http://localhost:9000
-         </sonar.host.url>
-     </properties>
-
     <dependencies>
 
         <dependency>
